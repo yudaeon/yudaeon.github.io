@@ -106,7 +106,10 @@ analytics:
 author:
   name             : "yudaeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "👋 Hi, I’m @yudaeon 💞️ 🌱 I’m currently learning **Web programming** 📫 How to reach me daeon03050@gmail.com ✨Github - https://github.com/yudaeon"
+  bio              : "👋 Hi, I’m @yudaeon" 
+                     "🌱 I’m currently learning **Web programming**"
+                     "📫 How to reach me daeon03050@gmail.com" 
+                     "✨Github - https://github.com/yudaeon"
   location         : "Republic of Korea"
   email            : "daeon03050@gmail.com"
   GitHub           : "https://github.com/yudaeon"
