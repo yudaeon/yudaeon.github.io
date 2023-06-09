@@ -106,9 +106,10 @@ analytics:
 author:
   name             : "yudaeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **studying** Web programming."
+  bio              : "I am **studying** Web programming."
   location         : "Republic of Korea"
   email            : "daeon03050@gmail.com"
+  GitHub           : "https://github.com/yudaeon"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
